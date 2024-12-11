@@ -96,3 +96,11 @@ This is a classic Snake game developed using **OpenGL** in C++. The game combine
    ```bash
    ./game-release
    ```
+### GAME OUTPUT
+![Program Output](output.png)
+1. **Game visuals in running state**
+
+![Program Output](output2.png)
+2. **Game visuals when the game is over**
+
+
